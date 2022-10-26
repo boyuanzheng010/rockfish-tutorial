@@ -1,4 +1,4 @@
 # rockfish-tutorial
 This is the repo for the tutorial of runing tasks on rockfish.
 
-script_templates folder contains template script to run tasks using {cpu, A100 and V100}.
+/script_templates folder contains template script to run tasks using {cpu, A100 and V100}.
